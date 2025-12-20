@@ -30,7 +30,7 @@ const CommitteePage: React.FC = () => {
       image: '/images/ThomasAchan.jpg'
     },
     {
-      name: 'Mr. Yohannan Danial',
+      name: 'Mr. Subish Koshy Mathews',
       title: 'Secretary',
       image: 'https://via.placeholder.com/300x400?text=Yohannan+Danial'
     },
@@ -44,12 +44,12 @@ const CommitteePage: React.FC = () => {
   // Committee members
   const committeeMembers: CommitteeMember[] = [
     {
-      name: 'Ms. Angel Mathew',
+      name: 'Ms. Sheena Thomas',
       title: 'Committee Member',
       image: 'https://via.placeholder.com/300x400?text=Angel+Mathew'
     },
     {
-      name: 'Ms. Bini Thomas',
+      name: 'Ms. Merin Thomas',
       title: 'Committee Member',
       image: 'https://via.placeholder.com/300x400?text=Bini+Thomas'
     },
@@ -59,7 +59,7 @@ const CommitteePage: React.FC = () => {
       image: 'https://via.placeholder.com/300x400?text=Cyril+Philipose'
     },
     {
-      name: 'Mr. John Koshy',
+      name: 'Mr. Sunil P. Skaria',
       title: 'Committee Member',
       image: 'https://via.placeholder.com/300x400?text=John+Koshy'
     },
@@ -69,12 +69,12 @@ const CommitteePage: React.FC = () => {
       image: 'https://via.placeholder.com/300x400?text=Linto+Mathew'
     },
     {
-      name: 'Mr. Shynu John',
+      name: 'Mr. Yohannan Danial',
       title: 'Committee Member',
       image: 'https://via.placeholder.com/300x400?text=Shynu+John'
     },
     {
-      name: 'Mr. Subish K. Mathew',
+      name: 'Mr. Rinu Varghese',
       title: 'Committee Member',
       image: 'https://via.placeholder.com/300x400?text=Subish+K+Mathew'
     }
