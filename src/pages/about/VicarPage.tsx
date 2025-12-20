@@ -41,7 +41,7 @@ const VicarPage = () => {
                     </p>
 
                     <p className="text-gray-600 dark:text-gray-300 mb-4">
-                      Rev. Fr. Dr. Thomas George was called to serve in the Holy altar at the age of thirteen by late lamented H.H Baselios Marthoma Didymos I, while H.H was serving as the Metropolitan of Malabar Diocese. His Holiness ordained Rev. Fr.Dr. Thomas George as sub-deacon (5th June 1990), deacon (6th Mar 1993), Priest (25th March 1993) and appointed as the Vicar of St. Gregorios Orthodox Church of Toronto, in June 2006. Rev. Fr. Dr. Thomas George has been proudly serving as Vicar of various parishes including St. George Orthodox Cathedral, Kozhikode under the Malabar Diocese of the Indian Orthodox Church since his ordination as a priest in 1993.
+                      Rev. Fr. Dr. Thomas George was called to serve in the Holy altar at the age of thirteen by late lamented H.H. Baselios Marthoma Didymos I, while H.H. was serving as the Metropolitan of Malabar Diocese. His Holiness ordained Rev. Fr. Dr. Thomas George as sub-deacon (5th June 1990), deacon (6th Mar 1993), Priest (25th March 1993) and appointed as the Vicar of St. Gregorios Orthodox Church of Toronto, in June 2006. Rev. Fr. Dr. Thomas George has been proudly serving as Vicar of various parishes including St. George Orthodox Cathedral, Kozhikode under the Malabar Diocese of the Indian Orthodox Church since his ordination as a priest in 1993.
                     </p>
 
                     <p className="text-gray-600 dark:text-gray-300 mb-4">
