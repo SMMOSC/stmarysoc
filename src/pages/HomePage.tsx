@@ -149,16 +149,16 @@ const HomePage: React.FC = () => {
               description="Community prayer and fellowship."
             />
             <ServiceCard 
-              title="Family Day" 
-              time="5:00 PM - 9:00 PM" 
-              day="17th May 2025" 
+              title="Family Day 2026" 
+              time="Coming Soon" 
+              day="Coming Soon" 
               description="Annual family gathering with food, games, and fellowship."
             />
             <ServiceCard 
               title="Special Services" 
-              time="To be announced" 
-              day="Major Feasts" 
-              description="Special liturgical services for major feast days."
+              time="5:30 PM TO 10:30 pm" 
+              day="24th December 2026" 
+              description="Christmas Service."
             />
             <ServiceCard 
               title="Passion Week" 
