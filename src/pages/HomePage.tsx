@@ -278,16 +278,16 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">4-5</span>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Orthodox Vacation Bible School 2026</h3>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Date: Coming Soon</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Rd E, Kitchener</p>
-                  <p className="text-gray-700 dark:text-gray-300 mt-2 italic">Theme: To be Updated (Psalms 119:9)</p>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Christmas Service 2026</h3>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Date: 24th December 2025</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Rd E, Kitchener, ON N2M 4Y6</p>
+                  <p className="text-gray-700 dark:text-gray-300 mt-2 italic">Time: 5:30 PM to 10:30 PM</p>
                   <div className="mt-2 text-sm text-gray-700 dark:text-gray-300">
                     <div>Contact:</div>
                     <div> Phone Number : (647) 936-7744</div>
                   </div>
                   <div className="mt-3 text-xs text-gray-500 dark:text-gray-400 border-t pt-2">
-                    "To be updated" – Psalm 119:9
+                    "For to us a child is born, to us a son is given... and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace" – Isaiah 9:6
                   </div>
                 </div>
               </div>
@@ -301,11 +301,10 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">26</span>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Picnic 2026</h3>
-                  <p className="text-gray-700 dark:text-gray-300 mt-2">Come and join us for a day filled with games, laughs, food, and unforgettable memories!</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium mt-2">Date: Coming Soon</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: To be updated</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Time: To be updated</p>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">New Year Service 2026</h3>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium mt-2">Date: 31st December 2025</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Road East, Kitchener, ON N2M 4Y6</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Time: 5:30 PM to 10:30 PM</p>
                   <div className="mt-2 text-sm text-gray-700 dark:text-gray-300">
                     <div>Contact:</div>
                     <div>Linto: 226 961-2564</div>
