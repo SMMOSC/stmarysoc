@@ -149,16 +149,16 @@ const HomePage: React.FC = () => {
               description="Community prayer and fellowship."
             />
             <ServiceCard 
-              title="Family Day" 
-              time="5:00 PM - 9:00 PM" 
-              day="17th May 2025" 
+              title="Family Day 2026" 
+              time="Coming Soon" 
+              day="Coming Soon" 
               description="Annual family gathering with food, games, and fellowship."
             />
             <ServiceCard 
               title="Special Services" 
-              time="To be announced" 
-              day="Major Feasts" 
-              description="Special liturgical services for major feast days."
+              time="5:30 PM TO 10:30 pm" 
+              day="24th December 2026" 
+              description="Christmas Service."
             />
             <ServiceCard 
               title="Passion Week" 
@@ -278,16 +278,16 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">4-5</span>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Orthodox Vacation Bible School 2025</h3>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Date: July 4th & 5th</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Rd E, Kitchener</p>
-                  <p className="text-gray-700 dark:text-gray-300 mt-2 italic">Theme: Walk in Purity (Psalms 119:9)</p>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Christmas Service 2026</h3>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Date: 24th December 2025</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Rd E, Kitchener, ON N2M 4Y6</p>
+                  <p className="text-gray-700 dark:text-gray-300 mt-2 italic">Time: 5:30 PM to 10:30 PM</p>
                   <div className="mt-2 text-sm text-gray-700 dark:text-gray-300">
                     <div>Contact:</div>
                     <div> Phone Number : (647) 936-7744</div>
                   </div>
                   <div className="mt-3 text-xs text-gray-500 dark:text-gray-400 border-t pt-2">
-                    "How can a young person stay on the path of purity? By living according to your word." – Psalm 119:9
+                    "For to us a child is born, to us a son is given... and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace" – Isaiah 9:6
                   </div>
                 </div>
               </div>
@@ -301,11 +301,10 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">26</span>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Picnic 2025</h3>
-                  <p className="text-gray-700 dark:text-gray-300 mt-2">Come and join us for a day filled with games, laughs, food, and unforgettable memories!</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium mt-2">Date: July 26th</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: Pinehurst Lake Conservation Area</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Time: 10:00 am to 6:00 pm</p>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">New Year Service 2026</h3>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium mt-2">Date: 31st December 2025</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Road East, Kitchener, ON N2M 4Y6</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Time: 5:30 PM to 10:30 PM</p>
                   <div className="mt-2 text-sm text-gray-700 dark:text-gray-300">
                     <div>Contact:</div>
                     <div>Linto: 226 961-2564</div>
@@ -322,7 +321,7 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">17</span>
                 </div>
                 <div>
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Family Day</h3>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Family Day 2026</h3>
                   <p className="text-gray-600 dark:text-gray-400">5:00 PM - 9:00 PM</p>
                   <p className="text-gray-700 dark:text-gray-300 mt-2">
                     Join us for a day of fellowship, food, and fun for the entire family.
