@@ -157,7 +157,7 @@ const HomePage: React.FC = () => {
             <ServiceCard 
               title="Special Services" 
               time="5:30 PM TO 10:30 pm" 
-              day="24th December 2026" 
+              day="24th December 2025" 
               description="Christmas Service."
             />
             <ServiceCard 
@@ -278,7 +278,7 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">24</span>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Christmas Service 2026</h3>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Christmas Service 2025</h3>
                   <p className="text-gray-600 dark:text-gray-400 font-medium">Date: 24th December 2025</p>
                   <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Rd E, Kitchener, ON N2M 4Y6</p>
                   <p className="text-gray-700 dark:text-gray-300 mt-2 italic">Time: 5:30 PM to 10:30 PM</p>
@@ -301,7 +301,7 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">31</span>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">New Year Service 2026</h3>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">New Year Service 2025</h3>
                   <p className="text-gray-600 dark:text-gray-400 font-medium mt-2">Date: 31st December 2025</p>
                   <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Road East, Kitchener, ON N2M 4Y6</p>
                   <p className="text-gray-600 dark:text-gray-400 font-medium">Time: 5:30 PM to 10:30 PM</p>
