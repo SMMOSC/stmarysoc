@@ -278,16 +278,16 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">4-5</span>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Orthodox Vacation Bible School 2025</h3>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Date: July 4th & 5th</p>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Orthodox Vacation Bible School 2026</h3>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Date: Coming Soon</p>
                   <p className="text-gray-600 dark:text-gray-400 font-medium">Location: 121 Westmount Rd E, Kitchener</p>
-                  <p className="text-gray-700 dark:text-gray-300 mt-2 italic">Theme: Walk in Purity (Psalms 119:9)</p>
+                  <p className="text-gray-700 dark:text-gray-300 mt-2 italic">Theme: To be Updated (Psalms 119:9)</p>
                   <div className="mt-2 text-sm text-gray-700 dark:text-gray-300">
                     <div>Contact:</div>
                     <div> Phone Number : (647) 936-7744</div>
                   </div>
                   <div className="mt-3 text-xs text-gray-500 dark:text-gray-400 border-t pt-2">
-                    "How can a young person stay on the path of purity? By living according to your word." – Psalm 119:9
+                    "To be updated" – Psalm 119:9
                   </div>
                 </div>
               </div>
@@ -301,11 +301,11 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">26</span>
                 </div>
                 <div className="flex-1">
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Picnic 2025</h3>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Picnic 2026</h3>
                   <p className="text-gray-700 dark:text-gray-300 mt-2">Come and join us for a day filled with games, laughs, food, and unforgettable memories!</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium mt-2">Date: July 26th</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: Pinehurst Lake Conservation Area</p>
-                  <p className="text-gray-600 dark:text-gray-400 font-medium">Time: 10:00 am to 6:00 pm</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium mt-2">Date: Coming Soon</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Location: To be updated</p>
+                  <p className="text-gray-600 dark:text-gray-400 font-medium">Time: To be updated</p>
                   <div className="mt-2 text-sm text-gray-700 dark:text-gray-300">
                     <div>Contact:</div>
                     <div>Linto: 226 961-2564</div>
@@ -322,7 +322,7 @@ const HomePage: React.FC = () => {
                   <span className="text-2xl font-bold">17</span>
                 </div>
                 <div>
-                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Family Day</h3>
+                  <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Family Day 2026</h3>
                   <p className="text-gray-600 dark:text-gray-400">5:00 PM - 9:00 PM</p>
                   <p className="text-gray-700 dark:text-gray-300 mt-2">
                     Join us for a day of fellowship, food, and fun for the entire family.
