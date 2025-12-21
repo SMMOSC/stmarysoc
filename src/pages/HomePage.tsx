@@ -274,8 +274,8 @@ const HomePage: React.FC = () => {
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden mb-6 border-2 border-yellow-400">
               <div className="p-6 flex flex-col md:flex-row gap-6 items-center">
                 <div className="min-w-16 h-16 bg-yellow-500 dark:bg-yellow-600 text-white flex flex-col items-center justify-center rounded-md mb-4 md:mb-0">
-                  <span className="text-sm font-medium">JUL</span>
-                  <span className="text-2xl font-bold">4-5</span>
+                  <span className="text-sm font-medium">DEC</span>
+                  <span className="text-2xl font-bold">244</span>
                 </div>
                 <div className="flex-1">
                   <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Christmas Service 2026</h3>
@@ -297,8 +297,8 @@ const HomePage: React.FC = () => {
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden mb-6 border-2 border-green-400">
               <div className="p-6 flex flex-col md:flex-row gap-6 items-center">
                 <div className="min-w-16 h-16 bg-green-600 dark:bg-green-700 text-white flex flex-col items-center justify-center rounded-md mb-4 md:mb-0">
-                  <span className="text-sm font-medium">JUL</span>
-                  <span className="text-2xl font-bold">26</span>
+                  <span className="text-sm font-medium">DEC</span>
+                  <span className="text-2xl font-bold">31</span>
                 </div>
                 <div className="flex-1">
                   <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">New Year Service 2026</h3>
@@ -307,8 +307,6 @@ const HomePage: React.FC = () => {
                   <p className="text-gray-600 dark:text-gray-400 font-medium">Time: 5:30 PM to 10:30 PM</p>
                   <div className="mt-2 text-sm text-gray-700 dark:text-gray-300">
                     <div>Contact:</div>
-                    <div>Linto: 226 961-2564</div>
-                    <div>Angel: 437 984-5669</div>
                   </div>
                 </div>
               </div>
@@ -317,8 +315,8 @@ const HomePage: React.FC = () => {
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden mb-6">
               <div className="p-6 flex gap-6 items-center">
                 <div className="min-w-16 h-16 bg-blue-700 dark:bg-blue-800 text-white flex flex-col items-center justify-center rounded-md">
-                  <span className="text-sm font-medium">MAY</span>
-                  <span className="text-2xl font-bold">17</span>
+                  <span className="text-sm font-medium">Coming</span>
+                  <span className="text-2xl font-bold">Soon</span>
                 </div>
                 <div>
                   <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Family Day 2026</h3>
@@ -333,8 +331,8 @@ const HomePage: React.FC = () => {
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden mb-6">
               <div className="p-6 flex gap-6 items-center">
                 <div className="min-w-16 h-16 bg-blue-700 dark:bg-blue-800 text-white flex flex-col items-center justify-center rounded-md">
-                  <span className="text-sm font-medium">APR</span>
-                  <span className="text-2xl font-bold">12</span>
+                  <span className="text-sm font-medium">Coming</span>
+                  <span className="text-2xl font-bold">Soon</span>
                 </div>
                 <div>
                   <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Passion Week Begins</h3>
@@ -349,8 +347,8 @@ const HomePage: React.FC = () => {
             <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
               <div className="p-6 flex gap-6 items-center">
                 <div className="min-w-16 h-16 bg-blue-700 dark:bg-blue-800 text-white flex flex-col items-center justify-center rounded-md">
-                  <span className="text-sm font-medium">JUN</span>
-                  <span className="text-2xl font-bold">30</span>
+                  <span className="text-sm font-medium">Coming</span>
+                  <span className="text-2xl font-bold">Soon</span>
                 </div>
                 <div>
                   <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Community Prayer Meeting</h3>
