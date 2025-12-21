@@ -332,7 +332,7 @@ const HomePage: React.FC = () => {
               <div className="p-6 flex gap-6 items-center">
                 <div className="min-w-16 h-16 bg-blue-700 dark:bg-blue-800 text-white flex flex-col items-center justify-center rounded-md">
                   <span className="text-sm font-medium">Coming</span>
-                  <span className="text-2xl font-medium">Soon</span>
+                  <span className="text-sm font-medium">Soon</span>
                 </div>
                 <div>
                   <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Passion Week Begins</h3>
@@ -348,7 +348,7 @@ const HomePage: React.FC = () => {
               <div className="p-6 flex gap-6 items-center">
                 <div className="min-w-16 h-16 bg-blue-700 dark:bg-blue-800 text-white flex flex-col items-center justify-center rounded-md">
                   <span className="text-sm font-medium">Coming</span>
-                  <span className="text-2xl font-bold">Soon</span>
+                  <span className="text-sm font-medium">Soon</span>
                 </div>
                 <div>
                   <h3 className="text-xl font-serif font-semibold text-gray-900 dark:text-white">Community Prayer Meeting</h3>
