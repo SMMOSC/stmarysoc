@@ -32,7 +32,7 @@ const CommitteePage: React.FC = () => {
     {
       name: 'Mr. Subish Koshy Mathews',
       title: 'Secretary',
-      image: 'https://via.placeholder.com/300x400?text=Yohannan+Danial'
+      image: '/images/Subish.jpeg'
     },
     {
       name: 'Mr. Jose K. Thelapuram',
@@ -71,7 +71,7 @@ const CommitteePage: React.FC = () => {
     {
       name: 'Mr. Yohannan Danial',
       title: 'Committee Member',
-      image: 'https://via.placeholder.com/300x400?text=Shynu+John'
+      image: '/images/Yohannan.jpeg'
     },
     {
       name: 'Mr. Rinu Varghese',
